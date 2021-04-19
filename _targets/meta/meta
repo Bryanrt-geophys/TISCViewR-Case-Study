@@ -1,0 +1,37 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+get_subsidence_data|function|2bd50b71329f4f93
+make_basin_plotly|function|bef64a43936782dc
+get_well_tops|function|7ea3150abbda3ef4
+make_basin_plots_individual|function|087fece85c79ddbf
+plot_basin_length|function|d8b01b1b466c623e
+plot_basin_symmetry_data|function|af2a8fbe453cba6b
+compute_basin_symmetry_data|function|3e6737e3aeca7a28
+compute_basin_volumes|function|d9db1eefd4ffe125
+get_decompaction_data|function|3a7fcf9137803720
+find_basin_data|function|5005267a42988df9
+plot_geohistory_curves|function|163c8f15a479e8d9
+make_basin_plots_small_multiples|function|b4273bf0a1122227
+make_basin_plots_small_multiples_with_midpoint|function|6f3b92abfc5a2971
+plot_basin_depth|function|d8691e88a3d1dc56
+wrangle_pfl|function|0400a4e860facebc
+raw_data_path|stem|c70703ce2805abc6|3e27f1cc0d492f3c|c3b5fc02cdc369c1|-1521636155|_targets/objects/raw_data_path|67bd960fda4ea618|4956b68a23f9e1fc|122|rds|vector|||0.804||
+class_paths|stem|a27ce3223c2c315a|d39813e47f8e7868|468b834a2faf182a|-2137168020|_targets/objects/class_paths|9512caf9cef4dc79|66c78b2f00f752d1|1015|rds|vector|||0.023||
+pfl_files|stem|21476e10440ce952|d654c5ec81be653a|5e4da95cafea012e|-1392753552|_targets/objects/pfl_files|cd731c759ea7ca00|bdb718bb890e6ce5|5205|rds|vector|||0.014||
+model_names|stem|d648ba6df4e4efcc|6f58649c230aa477|9736f98d68d7fbe7|-1996341239|_targets/objects/model_names|e59d50ea2c04ab65|175116648b33090c|292|rds|vector|||0.001||
+prm_files|stem|e19ac39e7b570054|fcacf481a20ef1d3|e7a1af7fecd69075|-1712905164|_targets/objects/prm_files|aefaa46bbd6dbe48|89bf07396b5b1413|389|rds|vector|||0.015||
+unit_files|stem|cdb0808086c05685|06d9c0e486b230d9|e7a1af7fecd69075|-90353940|_targets/objects/unit_files|c9e5290cf439e4a6|8a230169169dd703|462|rds|vector|||0.011||
+slv_files|stem|4d66b2d10f6b74fa|c62afd07086d1abc|e7a1af7fecd69075|-532200255|_targets/objects/slv_files|b2182740302f7993|89bf07396b5b1413|389|rds|vector|||0.015||
+models_basin_data|stem|2eb87ae34b78d150|7bf6b3b6d9343863|5fe3934fce8d3132|-1702924193|_targets/objects/models_basin_data|af297ec82a11029e|0a77278dd59ca062|538705|rds|vector|||31.327||
+models_basin_symmetry_data|stem|aa03b0600ad3739e|fdb15808eab95b81|a1361c6df5500db1|-1428394216|_targets/objects/models_basin_symmetry_data|5bfc94c868b3685c|644b823bd7315f57|573788|rds|vector|||0.828|longer object length is not a multiple of shorter object length|
+models_basin_geometry|stem|9b52a0e5218de905|f6aa1b8a8f55284d|9bbc0693b43f9faa|1979745160|_targets/objects/models_basin_geometry|8b9e59020082246f|227dbf69ae84d2d5|5134|rds|vector|||0.432|longer object length is not a multiple of shorter object length|
+basin_plotly|stem|2eb87ae34b78d150|ca1310da57f5b0ac|0f7204c3fd13ded6|652013752|_targets/objects/basin_plotly|12ccba9405d3bf22|0a77278dd59ca062|538705|rds|vector|||0.024||
+basin_plots_facets|stem|2eb87ae34b78d150|b49eda4556de84d4|271d3381b494db9c|-813067803|_targets/objects/basin_plots_facets|a1d6bc231690e2c4|0a77278dd59ca062|538705|rds|vector|||0.001||
+models_well_location|stem|dbc6e543b5fd4842|b1ac4eff1a25fda9|2b5a05bb06739295|1689370060|_targets/objects/models_well_location|e77a1803929bcf67|81f13fa29326ae4b|381|rds|vector|||0.064||
+basin_plots_facets_with_midpoint|stem|2eb87ae34b78d150|026bdf69d4236128|08af2001dd8bb6b7|44651686|_targets/objects/basin_plots_facets_with_midpoint|db1d2883a7148bae|0a77278dd59ca062|538705|rds|vector|||0.05||
+basin_symmetry_plots|stem|b6727a4db0fda9e7|349ae85d08608383|8a9cbe38ee79e1b5|-824081043|_targets/objects/basin_symmetry_plots|1ddd5e7ad5f925ea|44e327d1ee1978d7|43|rds|vector|||4.695||
+basin_depth_plots_facets|stem|b6727a4db0fda9e7|069d2b0ed27e9106|704d3ec4fa0483c3|1916827210|_targets/objects/basin_depth_plots_facets|00f6f3b33844f1f7|44e327d1ee1978d7|43|rds|vector|||1.169||
+basin_length_plots_facets|stem|b6727a4db0fda9e7|dd996ec43d71d925|8eb112fc584df451|-601310324|_targets/objects/basin_length_plots_facets|e10082993d496796|44e327d1ee1978d7|43|rds|vector|||1.27||
+models_well_tops|stem|d30f558b2a0dc56c|bf60f73cc7a9361a|031c7426841fc06c|939836770|_targets/objects/models_well_tops|235445a95e1dd028|b37564271d06748c|31184|rds|vector|||23.796||
+decompaction_data|stem|b0b3b82ca304f1bc|86b74f5039abf976|b8d817a2ea92cd7f|-1414678642|_targets/objects/decompaction_data|69b83735d58c1e22|03baa6204f6b29cf|318715|rds|vector|||1.042||
+subsidence_data|stem|80d17ed1e4f7d270|d817f1da1b7537fe|b8329b70b8f2c673|-1311777850|_targets/objects/subsidence_data|61f6cf34e63fc4f5|7635bd3323b7666f|28357|rds|vector|||0.516||
+geohistory_curves|stem|b6727a4db0fda9e7|1e229dd50df6fd73|953fee993e084cb9|-116449216|_targets/objects/geohistory_curves|45313dbf2d4d1126|44e327d1ee1978d7|43|rds|vector|||2.833||
